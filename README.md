@@ -13,8 +13,6 @@ In this 8-week mentorship program, you will build—entirely from scratch—a wo
 
 ## 🎯 Program Overview
 
-**Cohort Size:** 6 mentees  
-**Time Commitment:** 8–12 hours/week  
 **Prerequisites:** Python proficiency, basic Machine Learning (sklearn-level), and comfort with NumPy and linear algebra.
 
 ### What You Will Build & Deliver
